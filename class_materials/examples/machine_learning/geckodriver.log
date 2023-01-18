@@ -1,0 +1,110 @@
+1670441556564	geckodriver	INFO	Listening on 127.0.0.1:53232
+1670441565313	geckodriver	INFO	Listening on 127.0.0.1:53296
+1670441565828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53297" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofileuCqTEi"
+1670441566820	Marionette	INFO	Marionette enabled
+2022-12-07 21:32:46.828 plugin-container[44928:4059505] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:32:46.829 plugin-container[44928:4059505] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441566915	Marionette	INFO	Listening on port 53309
+2022-12-07 21:32:46.925 plugin-container[44928:4059505] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:32:46.925 plugin-container[44928:4059505] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:32:46.926 plugin-container[44928:4059507] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:32:46.926 plugin-container[44928:4059507] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 53309
+WebDriver BiDi listening on ws://127.0.0.1:53297
+1670441567086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofileuCqTEi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53297/devtools/browser/1510405d-975c-4709-987d-8820f3f68ad5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 4116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441600607	geckodriver	INFO	Listening on 127.0.0.1:53541
+1670441601119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53542" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilePdFOPP"
+2022-12-07 21:33:21.602 plugin-container[45015:4060455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:21.602 plugin-container[45015:4060455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:33:21.605 plugin-container[45015:4060455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:21.605 plugin-container[45015:4060455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:33:21.605 plugin-container[45015:4060457] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:21.605 plugin-container[45015:4060457] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441601622	Marionette	INFO	Marionette enabled
+1670441601785	Marionette	INFO	Listening on port 53553
+Read port: 53553
+WebDriver BiDi listening on ws://127.0.0.1:53542
+1670441601922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilePdFOPP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53542/devtools/browser/69746ab2-4f90-4c0a-a78b-665c3f54d751
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441621961	geckodriver	INFO	Listening on 127.0.0.1:53725
+1670441622466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53726" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofileUQjyS1"
+2022-12-07 21:33:42.931 plugin-container[45066:4061019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:42.931 plugin-container[45066:4061019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:33:42.935 plugin-container[45066:4061019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:42.935 plugin-container[45066:4061019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:33:42.936 plugin-container[45066:4061027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:33:42.936 plugin-container[45066:4061027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441622950	Marionette	INFO	Marionette enabled
+1670441623114	Marionette	INFO	Listening on port 53737
+Read port: 53737
+WebDriver BiDi listening on ws://127.0.0.1:53726
+1670441623254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofileUQjyS1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53726/devtools/browser/784caecf-510e-46ff-84f3-6e5e30f12df0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6246 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441677690	geckodriver	INFO	Listening on 127.0.0.1:54066
+1670441678201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54067" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilehnvMf9"
+2022-12-07 21:34:38.664 plugin-container[45174:4062171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:34:38.665 plugin-container[45174:4062171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:34:38.668 plugin-container[45174:4062171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:34:38.668 plugin-container[45174:4062171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:34:38.668 plugin-container[45174:4062178] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:34:38.668 plugin-container[45174:4062178] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441678688	Marionette	INFO	Marionette enabled
+1670441678727	Marionette	INFO	Listening on port 54082
+Read port: 54082
+WebDriver BiDi listening on ws://127.0.0.1:54067
+1670441678926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilehnvMf9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54067/devtools/browser/6d30d655-a1ef-4dce-a205-3d751efd6d78
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441739357	geckodriver	INFO	Listening on 127.0.0.1:54434
+1670441739867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54435" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofiletW58HP"
+2022-12-07 21:35:40.340 plugin-container[45303:4063192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:40.341 plugin-container[45303:4063192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:35:40.344 plugin-container[45303:4063192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:40.344 plugin-container[45303:4063192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:35:40.345 plugin-container[45303:4063198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:40.345 plugin-container[45303:4063198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441740363	Marionette	INFO	Marionette enabled
+1670441740402	Marionette	INFO	Listening on port 54450
+Read port: 54450
+WebDriver BiDi listening on ws://127.0.0.1:54435
+1670441740582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofiletW58HP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54435/devtools/browser/e12df1d9-361c-4e44-876a-c74dd464bb40
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441753683	geckodriver	INFO	Listening on 127.0.0.1:54576
+1670441754188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54577" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofile060QZ8"
+2022-12-07 21:35:54.668 plugin-container[45344:4063703] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:54.669 plugin-container[45344:4063703] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:35:54.672 plugin-container[45344:4063703] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:54.672 plugin-container[45344:4063703] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 21:35:54.672 plugin-container[45344:4063705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 21:35:54.672 plugin-container[45344:4063705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670441754692	Marionette	INFO	Marionette enabled
+1670441754863	Marionette	INFO	Listening on port 54593
+Read port: 54593
+WebDriver BiDi listening on ws://127.0.0.1:54577
+1670441754975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofile060QZ8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54577/devtools/browser/e2a9bebc-5573-49ac-bd34-28e9350e41fd
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670441760355	Marionette	INFO	Stopped listening on port 54593
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofile060QZ8/protections.sqlite
+1670450809716	Marionette	INFO	Stopped listening on port 53309
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofileuCqTEi/protections.sqlite
+1670450810436	Marionette	INFO	Stopped listening on port 53553
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilePdFOPP/protections.sqlite
+1670450810994	Marionette	INFO	Stopped listening on port 53737
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670450811645	Marionette	INFO	Stopped listening on port 54082
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/3t/wmv3mchd6w99pw9syrlwn5kh0000gq/T/rust_mozprofilehnvMf9/protections.sqlite
+1670450812184	Marionette	INFO	Stopped listening on port 54450
