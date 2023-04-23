@@ -1,4 +1,60 @@
 # CodeAcademy AI course material
+This course cover an introduction to Artificial Intelligence - from Python Crash Course to Generative Deep Learning.
+## Index
+List of all covered topics
+
+|Intro to Python|
+|-------------------|
+|[Introduction to syntax](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-09-28.ipynb)|
+|[Lists, Sets and Tuples](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-09-29.ipynb)|
+|[Functions](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-03.ipynb)             |
+|[Generators](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-05.ipynb)            |
+|[Classes](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-06.ipynb)               |
+|[Classes II](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-10.ipynb)            |
+|[Classes III](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-11.ipynb)           |
+|[Classes IV](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-19.ipynb)            |
+|[Classes V](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-20.ipynb)             |
+|[SQL with Python](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-26.ipynb)       |
+|[Scraping](https://github.com/dqmis/ai-course/blob/master/topics/1_intro_to_python/2022-10-27.ipynb)              |
+
+|Intro to Numpy                                                                                                   |
+|-------------------------------------------------------------------------------------------------------|
+|[Introduction to Numpy](https://github.com/dqmis/ai-course/blob/master/topics/2_numpy/2022-11-07.ipynb)|
+|[Numpy II](https://github.com/dqmis/ai-course/blob/master/topics/2_numpy/2022-11-09.ipynb)             |
+
+|Intro to Machine Learning                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Linear Regression](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-11-16.ipynb)                                  |
+|[Wine Quality Prediction with Linear Regression](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-11-21.ipynb)     |
+|[Wine Quality Prediction with Linear Regression II](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-11-23_2.ipynb)|
+|[Titanic Survivors Prediction](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-11-28.ipynb)                       |
+|[Sklearn Pipelines and Transformers](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-11-30.ipynb)                 |
+|[Housing price prediction](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-05.ipynb)                           |
+|[IMDB Movie Review Sentiment Analysis](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-07.ipynb)               |
+|[Decision Trees and Random Forrest Classifier](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-12.ipynb)       |
+|[Decision Trees and Random Forrests](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-14.ipynb)                 |
+|[AdaBoost and GradientBoost](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-19.ipynb)                         |
+|[XGBoost](https://github.com/dqmis/ai-course/blob/master/topics/3_machine_learning/2022-12-21.ipynb)                                            |
+
+|Intro to Deep Learning                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------|
+|[Neural Nets from scratch](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-01-11.ipynb)            |
+|[Regularization I](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-01-16.ipynb)                    |
+|[Building Micrograd](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-01-23.ipynb)                  |
+|[Building Micrograd II](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-01-25.ipynb)               |
+|[MLP](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-01-30.ipynb)                                 |
+|[Initialization](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-02-01.ipynb)                      |
+|[Text generation with Bigrams](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-02-06.ipynb)        |
+|[Text generation with Bigrams II](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-02-08.ipynb)     |
+|[Pytorch Lightning](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-02-20.ipynb)                   |
+|[Weight initialization and batch norm](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-02-27.ipynb)|
+|[PyTorch modules](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-03.ipynb)                     |
+|[Manual Backprop](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-06.ipynb)                     |
+|[MLP II](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-13.ipynb)                              |
+|[Transfer Learning](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-15.ipynb)                   |
+|[Transfer Learning II](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-16.ipynb)                |
+|[Huggingface demo](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-04-12.ipynb)                    |
+
 
 ## Related repositories
 | **Title**             | **Description**                                                          | **Link**                                       |
@@ -6,8 +62,6 @@
 | Simple Python Project | Project that showcases Python project structure and usability of modules | https://github.com/dqmis/simple_python_project |
 | Dog Shelter           | Repository to showcase FastAPI functionality                             | https://github.com/dqmis/dog_shelter           |
 | Recipes Scraper       | Project showcasing web scraping with Python                              | https://github.com/dqmis/recipes_scraper       |
-
-## Assignments
 
 ## Set up
 
