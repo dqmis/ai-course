@@ -62,6 +62,10 @@ List of all covered topics
 | Simple Python Project | Project that showcases Python project structure and usability of modules | https://github.com/dqmis/simple_python_project |
 | Dog Shelter           | Repository to showcase FastAPI functionality                             | https://github.com/dqmis/dog_shelter           |
 | Recipes Scraper       | Project showcasing web scraping with Python                              | https://github.com/dqmis/recipes_scraper       |
+| Recipes Classifier Service | Project showcasing FastAPI and Sklearn integration | https://github.com/dqmis/recipes-classifier |
+| Text classification with Transformers | Project showcasing text classification with Transformers and comparing it to classical ML approaches | https://github.com/dqmis/nlp-classification|
+| Text generation with Mini-GPT | Project showcasing text generation with Mini-GPT built from scratch | https://github.com/dqmis/gpt-demo |
+| Deployment to GCP demo| Demo application for building and deploying simple python app to GCP Cloud Run | https://github.com/dqmis/fastapi-gcp-demo|
 
 ## Set up
 
