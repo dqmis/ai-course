@@ -108,15 +108,6 @@ Follow instructions presented in [the website](https://git-scm.com/book/en/v2/Ge
 ### Set-up pre-commit
 * `$ pre-commit install`
 
-### Run the python file and see if you can get an output
-* Execute Python file: `$ python src/main.py`
-You should get this output:
-```shell
-        messages
-0  Hello, World!
-1      Sveikiii!
-```
-
 ### Start Jupyter Lab and run notebook
 * Start Jupyter Lab: `$ jupyter lab`
 * Execute Notebook inside notebooks dir
