@@ -71,3 +71,8 @@ local_run_data/*
 
 
 just_for_me/
+
+topics/4_deep_learning/datasets
+topics/4_deep_learning/trained_model
+topics/4_deep_learning/my_awesome_food_model
+topics/4_deep_learning/wandb

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "simple-python-project"
+name = "ai-course"
 version = "0.0.1"
 description = "Simple Python project. Use it to check if your set up is complete."
 authors = ["dqmis <dom.seputis@gmail.com>"]
