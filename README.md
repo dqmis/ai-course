@@ -55,6 +55,8 @@ List of all covered topics
 |[Transfer Learning II](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-03-16.ipynb)                |
 |[Huggingface demo](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-04-12.ipynb)                    |
 |[Images classification with Huggingface](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-04-25.ipynb)                    |
+|[Image Captioning](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-04-26.ipynb)                    |
+|[Text summarization](https://github.com/dqmis/ai-course/blob/master/topics/4_deep_learning/2023-04-26-2.ipynb)                    |
 
 
 ## Related repositories
